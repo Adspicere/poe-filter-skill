@@ -1,5 +1,7 @@
 # PoE Filter Skill
 
+[English](README.md) | [简体中文](README.zh-CN.md)
+
 A Codex skill for editing Path of Exile 1 loot filters, preserving customizations, verifying changes, and recording accepted files with Git.
 
 Current skill version: **0.2.2**. Read [SKILL.md](SKILL.md) for the complete workflow and boundaries.
@@ -69,6 +71,10 @@ A syntax pass does not establish correct item matching, rule priority, imported-
 | [scripts/filterblade_project.js](scripts/filterblade_project.js) | Optional helper for compatible native FilterBlade project operations |
 
 This Git repository tracks the standalone skill, its documentation, and repository metadata. Development prototypes, research artifacts, downloaded website assets, and generated filters are excluded. Helper compatibility and operational limits are documented in the corresponding [FilterBlade references](references/filterblade.md).
+
+## Contributing
+
+Write all Git commit messages in English. Keep the English and Simplified Chinese README versions aligned, including their language-switch links.
 
 ## License and attribution
 
