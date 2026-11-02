@@ -1,0 +1,4 @@
+interface:
+  display_name: "PoE Filter"
+  short_description: "Edit PoE 1 filters; offline-first FilterBlade"
+  default_prompt: "Use $poe-filter to customize and verify my PoE 1 filter; when I select FilterBlade mode, generate it offline by default."
