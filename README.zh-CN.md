@@ -72,10 +72,6 @@ python scripts/check_filter.py "C:\path\to\MyFilter.filter" --json
 
 本 Git 仓库仅追踪独立 skill、相关文档与仓库配置，不包含开发原型、研究产物、下载的网站资源或生成的过滤器。辅助脚本的兼容性要求与操作限制见相应的 [FilterBlade 参考文档](references/filterblade.md)。
 
-## 贡献约定
-
-所有 Git 提交信息均使用英文。英文与简体中文 README 应保持内容同步，并保留各自的语言切换链接。
-
 ## 许可证与致谢
 
 本项目采用 [MIT 许可证](LICENSE)。基于 NeverSink 的样式参考保留其独立的 [MIT 许可声明](references/neversink-license.txt)。

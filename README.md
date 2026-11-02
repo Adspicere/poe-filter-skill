@@ -72,10 +72,6 @@ A syntax pass does not establish correct item matching, rule priority, imported-
 
 This Git repository tracks the standalone skill, its documentation, and repository metadata. Development prototypes, research artifacts, downloaded website assets, and generated filters are excluded. Helper compatibility and operational limits are documented in the corresponding [FilterBlade references](references/filterblade.md).
 
-## Contributing
-
-Write all Git commit messages in English. Keep the English and Simplified Chinese README versions aligned, including their language-switch links.
-
 ## License and attribution
 
 This project is licensed under the [MIT License](LICENSE). The NeverSink-derived style reference retains its separate [MIT notice](references/neversink-license.txt).
